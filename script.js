@@ -1,9 +1,9 @@
-const lineElement = document.getElementById('line');
-let rotationAngle = 0;
+// const lineElement = document.getElementById('line');
+// let rotationAngle = 0;
 
-function rotateLine() {
-  rotationAngle += 1;
-  lineElement.style.transform = `rotate(${rotationAngle}deg)`;
-}
+// function rotateLine() {
+//   rotationAngle += 1;
+//   lineElement.style.transform = `rotate(${rotationAngle}deg)`;
+// }
 
-setInterval(rotateLine, 10);
+// setInterval(rotateLine, 10);
